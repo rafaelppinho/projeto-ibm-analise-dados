@@ -40,8 +40,8 @@ Este projeto é uma lista de exercícios práticos de **Web Scraping** e **Anál
 
 ## 📸 Exemplo de Visualização
 
-> O gráfico interativo gerado compara o **preço histórico das ações da Tesla** com sua **receita anual**, até junho de 2021.
-
+> Gráfico interativo gerado compara o **preço histórico das ações da Tesla** com sua **receita anual**, até junho de 2021.
+<img src=""newplot.png">
 ---
 
 ## 📁 Como executar
