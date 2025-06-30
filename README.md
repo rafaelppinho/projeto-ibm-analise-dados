@@ -72,8 +72,11 @@ pip install yfinance requests beautifulsoup4 pandas plotly
 ---
 
 👨‍💻 Autor
+
 Rafael Pires Pinho
+
 📧 rafaelppinho.ti@gmail.com
+
 📎 <a href ="www.linkedin.com/in/rafaelppinho">LinkedIn</a>
 
 ---
