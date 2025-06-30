@@ -77,7 +77,7 @@ Rafael Pires Pinho
 
 📧 rafaelppinho.ti@gmail.com
 
-📎 <a href ="www.linkedin.com/in/rafaelppinho">LinkedIn</a>
+📎 LinkedIn www.linkedin.com/in/rafaelppinho
 
 ---
 
